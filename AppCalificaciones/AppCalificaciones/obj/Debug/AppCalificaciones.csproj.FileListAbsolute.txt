@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\bin\Debug\AppCalificaciones.exe.config
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\bin\Debug\AppCalificaciones.exe
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\bin\Debug\AppCalificaciones.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\bin\Debug\Lib_calificacion.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\bin\Debug\Lib_calificacion.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\obj\Debug\AppCalificaciones.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\obj\Debug\AppCalificaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\obj\Debug\AppCalificaciones.Form1.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\obj\Debug\AppCalificaciones.Properties.Resources.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\obj\Debug\AppCalificaciones.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\obj\Debug\AppCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\obj\Debug\AppCalificaciones.csproj.CopyComplete
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\obj\Debug\AppCalificaciones.exe
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\AppCalificaciones\AppCalificaciones\obj\Debug\AppCalificaciones.pdb

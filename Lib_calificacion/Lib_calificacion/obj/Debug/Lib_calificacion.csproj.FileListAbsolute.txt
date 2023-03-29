@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\Lib_calificacion\Lib_calificacion\bin\Debug\Lib_calificacion.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\Lib_calificacion\Lib_calificacion\bin\Debug\Lib_calificacion.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\Lib_calificacion\Lib_calificacion\obj\Debug\Lib_calificacion.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\Lib_calificacion\Lib_calificacion\obj\Debug\Lib_calificacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\Lib_calificacion\Lib_calificacion\obj\Debug\Lib_calificacion.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\taller\Lib_calificacion\Lib_calificacion\obj\Debug\Lib_calificacion.pdb
